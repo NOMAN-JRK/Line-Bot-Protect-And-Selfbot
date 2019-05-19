@@ -393,7 +393,7 @@ def help():
                   "╠➩●➢" + key + "Listprotect\n" + \
                   "╠══════════════════════\n" +\
                   "║●●●●" + key + "SQUAD NAGA MERAH ●●●●\n" +\
-                  "║" + key + " ●● http://line.me/ti/p/~rey_tlangu ●● \n" +\
+                  "║" + key + " ●● http://line.me/ti/p/~alino9 ●● \n" +\
                   "╚══════════════════════"
     return helpMessage
 
@@ -438,7 +438,7 @@ def helpbot():
                   "╠➩●➢" + key + "Spam:「Mid korban」「Jumlah」\n" + \
                   "╠══════════════════════════\n" +\
                   "║●●●●" + key + "SQUAD NAGA MERAH ●●●●\n" +\
-                  "║" + key + " ●● http://line.me/ti/p/~rey_tlangu ●● \n" +\
+                  "║" + key + " ●● http://line.me/ti/p/~zainjamali83 ●● \n" +\
                   "╚══════════════════════════"
     return helpMessage1
 
